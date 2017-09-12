@@ -38,7 +38,7 @@ Date: 2017-09-09 00:00
 - **Email**: info@ontreat.com  
 - **Location**: Lazimpat-2, Kathmandu  
 - **Website**: [ontreat.com](http://ontreat.com)
--  **Frameworks and Libraries**: Django, Pandas, Numpy, Scrapy
+-  **Frameworks and Libraries**: Django, Tornado, Numpy, Pandas, Scrapy, SQLAlchemy, Fabric
 
 ### Zeftware Solutions Pvt. Ltd.  
 - **Email**: info@zeftware.com  
@@ -47,3 +47,12 @@ Date: 2017-09-09 00:00
 - **Website**: [zeftware.com](http://zeftware.com)
 - **Use**: Python is used in our different products such as zefed, scripting and automation.
 -  **Frameworks and Libraries**: Django  
+
+
+### Ontreat Service Pvt. Ltd.  
+- **Email**: info@ontreat.com
+- **Location**: Garidhara-2, Kathmandu
+- **Phone**: 01-4350938
+- **Website**: [ontreat.com](http://ontreat.com)
+- **Use**: Used to develop platforms and portal  - ontreat.com, fishrr.com, foodpetal.com
+-  **Frameworks and Libraries**: Django, Tornado, Numpy, Pandas, Scrapy, SQLAlchemy, Fabric
